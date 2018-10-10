@@ -11,20 +11,20 @@ The tool is fast and easy to use, and if you don't have the position pass, ask 
 
 <strong>Tool details:</strong>
 
-P Channel: To select the Position Pass channel.
+<strong>P Channel:</strong> To select the Position Pass channel.
 
-Axe: To choose the ramp direction (x,y or z).
+<strong>Axe:</strong> To choose the ramp direction (x,y or z).
 
-Start & End: To adjust the position of the two extremes of the ramp.
+<strong>Start & End:</strong> To adjust the position of the two extremes of the ramp.
 
-Offset (Start & End): To precisely adjust the position between the two extremes with a slider.
+<strong>Offset (Start & End):</strong> To precisely adjust the position between the two extremes with a slider.
 
-Overlay: To show the ramp on overlay (looking the rgb) and to change the color (none, red, green, blue or black)
+<strong>Overlay:</strong> To show the ramp on overlay (looking the rgb) and to change the color (none, red, green, blue or black)
 
-3D Options:
+<strong>3D Options:</strong>
 - To visualize in 3D the input image and the ramp. This uses a "position to point" node and it gives the possibility to adjust the "Point Detail" and the "Point Size".
 - To adjust the size of 3D points representing the position of the two extremes of the ramp.
 
-(Un)Premult: To keep nice shapes on edges.
+<strong>(Un)Premult:</strong> To keep nice shapes on edges.
 
 <p style="font-family: 'Open Sans', sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;">For the creation of this tool, I was strongly inspired by the article written by <a title="Nukepedia Tutorial" href="http://www.nukepedia.com/written-tutorials/expressions-101" target="_blank" rel="noopener">Matt Estela and Pedro Andrade</a> and similar tools, such as those from <a title="Nukepedia Tool" href="http://www.nukepedia.com/toolsets/3d/wptk" target="_blank" rel="noopener">Ivan Kokov</a>.</p>
